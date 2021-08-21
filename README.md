@@ -1,1 +1,1 @@
-# Machine_Learning_prac
+# Machine_Learning_assignments
